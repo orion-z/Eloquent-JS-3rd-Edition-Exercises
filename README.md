@@ -1,4 +1,4 @@
-# Eloquent-JS-3rd-Edition-Exercises
+Eloquent JS 3rd Edition Exercises
 
 My proposed solutions to the exercises in the 3rd edition of Eloquent JavaScript by Marijn Haverbeke. 
 
