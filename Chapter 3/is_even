@@ -1,0 +1,12 @@
+function isEven(a) {
+    // if number is negative, make absolute
+    // could also be done with Math.abs()
+    (a < 0) ? a = -a : a = a;
+    if (a == 0) {
+        return true;
+    } else if (a == 1) {
+        return false;
+    } else {
+        return isEven(a - 2);
+    }
+}
