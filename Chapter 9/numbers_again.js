@@ -12,9 +12,7 @@ breaking it down:
 (         
 \d+       one or more digits
 (\.\d*)?  zero or one (dot followed by zero or more digits)
-
 |         OR
-
 \.\d+     one or more (dot followed by one or more digits)
 )         (this block needs to be in)
 
